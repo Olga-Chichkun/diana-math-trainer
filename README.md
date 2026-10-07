@@ -1,2 +1,2 @@
-# diana-math-trainer
+# diana-level
 Обучение Дианы
